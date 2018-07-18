@@ -1,0 +1,10 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.notcuder.medis
+productName: medis
+mac:
+  category: your.app.category.type
+win:
+  target: portable
+electronVersion: 1.4.15

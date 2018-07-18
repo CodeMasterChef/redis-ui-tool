@@ -1,0 +1,10 @@
+version: 0.6.1
+files:
+  - url: medis-0.6.1-mac.zip
+    sha512: we4aGe7271xa2Yo3Hwc4wUXLOiJzb21s8FiobZN6Fmswwyyphmmxjw2qskhrLSuzFveAIGZBOc/VYR74YOBrYQ==
+  - url: medis-0.6.1.dmg
+    sha512: kZZ5gABt6j3zNCcgY2gJ4x0VCukIl95x7SVmeVmeuoycaCEsR80wvyBZW3S7ynn7rz1gIuFr4tZHsoEACwJkYQ==
+    size: 86440735
+path: medis-0.6.1-mac.zip
+sha512: we4aGe7271xa2Yo3Hwc4wUXLOiJzb21s8FiobZN6Fmswwyyphmmxjw2qskhrLSuzFveAIGZBOc/VYR74YOBrYQ==
+releaseDate: '2018-07-18T03:52:53.010Z'
