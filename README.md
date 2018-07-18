@@ -45,6 +45,15 @@ You can download compiled versions of Medis for Mac OS X from [the release page]
 
     $ npm run electron
 
+## Release: 
+
+We use `electron-builder` to build app. App icon is from build folder. We use command bellow:
+
+`npm run dist`
+
+The release installers will be stored in `dist` folder.
+
+
 ## Connect to Heroku
 Medis can connect to Heroku Redis addon to manage your data. You just need to call `heroku redis:credentials --app APP` to get your redis credential:
 
